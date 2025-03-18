@@ -10,9 +10,9 @@
 - 🎓 DUT in Computer Science - University of Caen (2015-2017)  
 
 💼 **Professional Experience**  
-- 🔧 Versatile Developer (Apprenticeship) - téïcée (2017-2020)  
+- 🚀 Head of Development Department - téïcée (Since 2020)
 - 🧑‍💻 Engineer / Lead Developer - téïcée (2020-2022)  
-- 🚀 Head of Development Department - téïcée (Since 2020)  
+- 🔧 Versatile Developer (Apprenticeship) - téïcée (2017-2020)  
 
 ---
 
