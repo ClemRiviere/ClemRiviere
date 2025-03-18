@@ -6,8 +6,8 @@
 ## 🚀 About Me  
 
 🎓 **Education**  
-- 🎓 DUT in Computer Science - University of Caen (2015-2017)  
 - 🎓 Computer Engineering Degree (specialized in payment systems) - ENSICAEN (2017-2020)  
+- 🎓 DUT in Computer Science - University of Caen (2015-2017)  
 
 💼 **Professional Experience**  
 - 🔧 Versatile Developer (Apprenticeship) - téïcée (2017-2020)  
